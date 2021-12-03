@@ -7,7 +7,9 @@
 
 # Contact
 
-<a href="mailto:ajrc4@cl.cam.ac.uk?subject=Early exit ensembles [GitHub]">ajrc4@cl.cam.ac.uk</a>  
+<a href="mailto:ajrc4@cl.cam.ac.uk?subject=Early exit ensembles [GitHub]">ajrc4@cl.cam.ac.uk</a> <a href="mailto:lq223@cl.cam.ac.uk?subject=Early exit ensembles [GitHub]">lq223@cl.cam.ac.uk</a>  
+
+lq223@cl.cam.ac.uk
 
 
 <br>
